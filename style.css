@@ -1,3 +1,6 @@
+body{
+    background-image: linear-gradient(rgb(7, 3, 120), rgb(84, 133, 184));
+}
 img{
 height: 100%;
     width: 50%;
@@ -17,7 +20,7 @@ height: 100%;
    
    float:left;
    text-align: justify;
-   width: 25%;
+   width: 23%;
 }
 p{
     font-size: 20px;
@@ -32,17 +35,21 @@ p{
    top: 0px;
 }
 #header{
+    color: rgb(255, 255, 255);
     position: fixed;
     margin-top:20px ;
-    margin-left: 350px;
+    margin-left: 318px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
 }
 #rodape{
+    color: rgb(255, 255, 255);
     position: fixed;
    margin-top: 420px;
    float: none;
    margin-left: 450px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   opacity: 0.8;
    
     
 }
